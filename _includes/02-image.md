@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Autumn](https://i.loli.net/2020/03/26/FCUyu2S95WX4gZe.jpg)
