@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Basketball
+* LoL
+* Cooking
+* Night Running
+* Reading
